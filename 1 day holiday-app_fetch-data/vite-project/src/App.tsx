@@ -1,6 +1,7 @@
 import './App.css'
-import React, {useState, useEffect} from 'react';
-import {type DataFetch, fetchCountries, fetchHolidaies, type IHolidaies} from "./api.ts";
+import React, {useState} from 'react';
+import {fetchCountries, fetchHolidaies} from "./api.ts";
+import {useQuery} from '@tanstack/react-query'
 
 // TODO: Fetch data from API
 /*
@@ -9,67 +10,46 @@ import {type DataFetch, fetchCountries, fetchHolidaies, type IHolidaies} from ".
 2) по выбранной стране выводить праздники - с кодом
 3) На React query переписать запрос с бека - сначала через фетч
 
-
-5) быстро статью глянуть - почему через Реакт квери лучше запрос делать, а не через фетч
-
 */
 
 function App() {
-  const [countyList, setCountyList] = useState<DataFetch[] | null>(null)
   const [pickedCountry, setPickedCountry] = useState('NL')
-  const [holidaylist, setHolidayList] = useState<IHolidaies[] | null>(null)
+
+  const {data: countries, isPending} = useQuery({
+    queryKey: ['countries'],
+    queryFn: fetchCountries
+  })
+
+  const {data: holidays} = useQuery({
+    queryKey: ['holidays', pickedCountry],
+    queryFn: () => fetchHolidaies(pickedCountry)
+  })
+
 
   const handleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     setPickedCountry(e.target.value)
-    const fetchData = async () => {
-      try {
-        const data = await fetchHolidaies(e.target.value)
-        setHolidayList(data)
-      } catch {
-        console.error('Problems with fetch holiday list')
-      }
-    }
-    fetchData()
   }
 
-
-
-  useEffect(() => {
-
-    let cancel = false;
-
-    const load = async () => {
-      try {
-        const data = await fetchCountries()
-        if(!cancel) setCountyList(data)
-      } catch {
-        console.error('Could not fetch data')
-      }
-    }
-    load()
-
-    return () => {
-      cancel = true
-    }
-  }, [])
-
-  console.log('test >>> ', countyList)
+  console.log('test >>> ', countries)
 
   return (
     <>
-      <section id="center">
+      <section id="top">
         <div>
           <h1>Тут будет апп</h1>
             <label htmlFor="country">Country</label>
             <select value={pickedCountry} onChange={handleChange} name="county" id="county">
-              {countyList && countyList.map(country => (
+              {countries && countries.map(country => (
                 <option key={country.isoCode} value={country.isoCode}>{country.name[0].text}</option>
               ))}
             </select>
         </div>
+        {isPending && (
+            <span>Loading...</span>
+        )}
         <ul>
-          {holidaylist?.map(item => (
-              <li key={item.id}>{item.name[0]['text']}</li>
+          {holidays?.map(item => (
+            <li style={{listStyleType: 'none'}} key={item.id}>{item.startDate} - {item.name[0]['text']}</li>
           ))}
         </ul>
       </section>
