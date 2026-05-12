@@ -16,7 +16,8 @@ const MemoryGame = ({images}: IMemoryGame) => {
 
 
     const handleChange = (index: number) => {
-        if(flippedIndex && images[flippedIndex] === images[index]) {
+        if(flippedIndex === index) return;
+        if(flippedIndex !== null && images[flippedIndex] === images[index]) {
             setFoundImages({...foundImages, [index]: true, [flippedIndex]: true});
         }
         setFlippedIndex(index)
