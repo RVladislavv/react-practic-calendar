@@ -1,4 +1,3 @@
-import React from 'react';
 import {shuffle} from "./utils/shuffle.ts";
 import MemoryGame from "./MemoryGame.tsx";
 import type {IMemoryGame} from "./utils/interface.ts";
