@@ -5,7 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48c3441-1754-457f-8506-de933372cc65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/_metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react-DW0Z4HR0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react-DW0Z4HR0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react-dom_client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react-dom_client.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5d hacker news/vite-project/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,28 +56,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vladislavryckov/Desktop/React/react-practic-calendar/2 day accordion",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.lint.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "ts.external.directory.path": "/Users/vladislavryckov/Desktop/React/react-practic-calendar/2 day accordion/vite-project/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vladislavryckov/Desktop/React/react-practic-calendar/5d hacker news&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.lint.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vladislavryckov/Desktop/React/react-practic-calendar/5d hacker news/vite-project/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/5d hacker news" />
       <recent name="$PROJECT_DIR$/2 day accordion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -80,6 +117,8 @@
       <updated>1777910869180</updated>
       <workItem from="1777910870529" duration="7577000" />
       <workItem from="1778081891550" duration="3900000" />
+      <workItem from="1778689391646" duration="1473000" />
+      <workItem from="1778775076914" duration="1555000" />
     </task>
     <servers />
   </component>
