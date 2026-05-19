@@ -5,36 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48c3441-1754-457f-8506-de933372cc65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react-DW0Z4HR0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react-DW0Z4HR0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react-dom_client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react-dom_client.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/public/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/public/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/ToDoList.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/assets/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/assets/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-9 day drug and drop/vite-project/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/_metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react-DW0Z4HR0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react-DW0Z4HR0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react-dom_client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react-dom_client.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 movie search/vite-project/vite.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" afterDir="false" />
@@ -63,7 +62,8 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vladislavryckov/Desktop/React/react-practic-calendar/8-9 day drug and drop",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "/Users/vladislavryckov/Desktop/React/react-practic-calendar/10 movie search",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +77,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10 movie search" />
       <recent name="$PROJECT_DIR$/8-9 day drug and drop" />
       <recent name="$PROJECT_DIR$/5d hacker news" />
       <recent name="$PROJECT_DIR$/2 day accordion" />
@@ -121,6 +122,7 @@
       <workItem from="1778689391646" duration="1473000" />
       <workItem from="1778775076914" duration="2434000" />
       <workItem from="1778857833005" duration="6244000" />
+      <workItem from="1779203570469" duration="4581000" />
     </task>
     <servers />
   </component>
