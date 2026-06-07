@@ -5,9 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48c3441-1754-457f-8506-de933372cc65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/_metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-DW0Z4HR0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-DW0Z4HR0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-dom_client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-dom_client.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/DateBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/Panel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/PeopleBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/TimeBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/utils/dateFormat.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/vite.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18 typewriter/typewriter-effect/src/TypewriterEffect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/18 typewriter/typewriter-effect/src/TypewriterEffect.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" afterDir="false" />
@@ -17,8 +50,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/18 typewriter/typewriter-effect" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -28,33 +69,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "/Users/vladislavryckov/Desktop/react-practic-calendar/18 typewriter",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.lint.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "ts.external.directory.path": "/Users/vladislavryckov/Desktop/react-practic-calendar/2 day accordion/vite-project/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vladislavryckov/Desktop/react-practic-calendar/22 restaurant widget&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.lint.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vladislavryckov/Desktop/react-practic-calendar/2 day accordion/vite-project/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/22 restaurant widget" />
       <recent name="$PROJECT_DIR$/18 typewriter" />
       <recent name="$PROJECT_DIR$/16 Forms" />
       <recent name="$PROJECT_DIR$/15 pokemons" />
       <recent name="$PROJECT_DIR$/11-12" />
-      <recent name="$PROJECT_DIR$/10 movie search" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -101,7 +142,11 @@
       <workItem from="1779380022187" duration="4022000" />
       <workItem from="1779471734822" duration="4297000" />
       <workItem from="1779809534869" duration="8562000" />
-      <workItem from="1779898518756" duration="5143000" />
+      <workItem from="1779898518756" duration="5292000" />
+      <workItem from="1779985044884" duration="3775000" />
+      <workItem from="1780071432938" duration="2402000" />
+      <workItem from="1780260867736" duration="102000" />
+      <workItem from="1780758955452" duration="15099000" />
     </task>
     <servers />
   </component>
