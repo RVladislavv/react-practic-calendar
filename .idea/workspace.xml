@@ -5,42 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e48c3441-1754-457f-8506-de933372cc65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-DW0Z4HR0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-DW0Z4HR0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-dom_client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react-dom_client.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react_jsx-dev-runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/.vite/deps/react_jsx-dev-runtime.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/public/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/public/icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/assets/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/DateBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/Panel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/PeopleBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/TimeBox.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/components/interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/src/utils/dateFormat.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22 restaurant widget/vite-project/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component/src/shared/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component/src/components/GithubFilter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component/src/components/GithubFilter.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/3d useLocalStorage/local-storage-hook/src/use-local-storage.js" afterDir="false" />
@@ -53,13 +22,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/24 Github Filter/github-issues-filter-component" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -146,7 +115,9 @@
       <workItem from="1779985044884" duration="3775000" />
       <workItem from="1780071432938" duration="2402000" />
       <workItem from="1780260867736" duration="102000" />
-      <workItem from="1780758955452" duration="15099000" />
+      <workItem from="1780758955452" duration="15553000" />
+      <workItem from="1780903221964" duration="5362000" />
+      <workItem from="1781024754632" duration="4927000" />
     </task>
     <servers />
   </component>
